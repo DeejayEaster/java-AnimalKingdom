@@ -12,7 +12,7 @@ public class Mammal extends Animal {
 
     @Override
     public String breath() {
-        return name + " draws air deep into their lungs.";
+        return "Draws air deep into their lungs.";
     }
 
     @Override

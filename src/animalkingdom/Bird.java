@@ -7,7 +7,7 @@ public class Bird extends Animal {
 
     @Override
     public String breath() {
-        return name + " pulls air into their lungs";
+        return name + "Draws air deep into their lungs.";
     }
 
     @Override
@@ -17,6 +17,6 @@ public class Bird extends Animal {
 
     @Override
     public String reproduce() {
-        return name + " has had a healthy clutch of eggs."
+        return "Had a healthy clutch of eggs."
     }
 }

@@ -17,6 +17,6 @@ public class Fish extends Animal {
 
     @Override
     public String reproduce() {
-        return name + " has had a healthy clutch of eggs."
+        return "Had a healthy clutch of eggs."
     }
 }
